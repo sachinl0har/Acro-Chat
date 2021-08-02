@@ -3,10 +3,7 @@
 A Social Media Application with a Chatbot.
 
 ## Preview
-<!-- 
-Home Page | Messages | Chat Bot | Chat Page | Profile |
---- | --- | --- | --- | --- | --- |
-![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_1.png) | ![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_2.png) | ![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_3.png) | ![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_4.png) | ![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_4.png) | ![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_5.png) -->
+
 Home Page | Messages | Chat Bot
 --- | --- | --- |
 ![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_1.png) | ![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_2.png) | ![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_3.png)
