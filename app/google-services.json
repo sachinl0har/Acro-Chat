@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617603488811",
+    "project_id": "acro-chat",
+    "storage_bucket": "acro-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617603488811:android:0bf274b7581cd7a6341e6e",
+        "android_client_info": {
+          "package_name": "com.example.acrochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617603488811-877p38c19dcuif62kp80j4v0og6d12fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5E7MGj4-GN1x8eiuFtJCGQHcRFCiRUyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617603488811-877p38c19dcuif62kp80j4v0og6d12fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

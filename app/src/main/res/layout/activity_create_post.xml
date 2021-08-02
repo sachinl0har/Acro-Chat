@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.CreatePostActivity">
+
+    <LinearLayout
+        android:id="@+id/topBar"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/black"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/postBackBtn"
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_weight="0.2"
+            android:padding="5dp"
+            android:src="@drawable/ic_back_button"/>
+
+        <TextView
+            android:id="@+id/topBarText"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:fontFamily="@font/bangers"
+            android:text="Post"
+            android:textColor="@color/white"
+            android:textAlignment="center"
+            android:textSize="27sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/postBtn"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:layout_weight="0.2"
+            android:layout_marginTop="3dp"
+            android:padding="8dp"
+            android:text="POST"
+            android:textColor="@color/red"
+            android:textStyle="bold"
+            android:maxLines="1"
+            android:textSize="14sp"
+            android:fontFamily="sans-serif-black"/>
+    </LinearLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/topBar">
+        <EditText
+            android:id="@+id/postInput"
+            android:layout_width="0dp"
+            android:layout_height="200dp"
+            android:background="@drawable/edit_text_round_shape"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:hint="What do you want to talk about?"
+            android:textColorHint="#9E9E9E"
+            android:gravity="top"
+            android:textColor="@color/white"
+            android:layout_margin="12dp"
+            android:padding="12dp"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</RelativeLayout>

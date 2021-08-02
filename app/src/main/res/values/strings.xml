@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Acro Chat</string>
+    <string name="username">Enter Username (only lowercase)</string>
+    <string name="email">Enter Your Email</string>
+    <string name="password">Enter Password</string>
+    <string name="cpassword">Enter Confirm Password</string>
+    <string name="label_signup">Sign Up</string>
+    <string name="label_messages">Messages</string>
+    <string name="label_profile">Profile</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="label_signin">Log In</string>
+    <string name="btn_login">Log In</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_logout">Log out</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
