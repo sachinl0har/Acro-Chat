@@ -2,9 +2,9 @@
 
 ### A Social Media Android app build in kotlin using Firebase
 Features-
-`Posts
-Chat with Users
-Profile Page
+`Posts,
+Chat with Users,
+Profile Page,
 Chat bot`
 
 ## Preview
