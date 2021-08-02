@@ -3,11 +3,14 @@
 A Social Media Application with a Chatbot.
 
 ## Preview
-
+<!-- 
 Home Page | Messages | Chat Bot | Chat Page | Profile |
 --- | --- | --- | --- | --- | --- |
-![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_1.png) | ![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_2.png) | ![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_3.png) | ![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_4.png) | ![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_4.png) | ![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_5.png)
-  
+![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_1.png) | ![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_2.png) | ![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_3.png) | ![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_4.png) | ![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_4.png) | ![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_5.png) -->
+Main Listing | Details | Details (After adopted)
+--- | --- | --- |
+![](https://github.com/PatilShreyas/PetyKT/blob/main/results/screenshot_1.png) | ![](https://github.com/PatilShreyas/PetyKT/blob/main/results/screenshot_2.png) | ![](https://github.com/PatilShreyas/PetyKT/blob/main/results/screenshot_3.png)
+
 ## License
 ```
 Copyright ©️ sachinl0har
