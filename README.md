@@ -1,6 +1,6 @@
 # Acro Chat
 
-### A Social Media Android app build in kotlin using Firebase
+### A Social Media Android app build in ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=black) using ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 Features-
 `Posts,
 Chat with Users,
