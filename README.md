@@ -14,7 +14,7 @@ Home Page | Messages | Chat Bot
 ![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_1.png) | ![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_2.png) | ![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_3.png)
 
 ![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/screenshot_6.png)
-![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/acro-chat-showcase.mov)
+![](https://github.com/sachinl0har/Acro-Chat/blob/master/results/acro-chat-gif.gif)
 
 ## License
 ```
